@@ -1,7 +1,7 @@
 ## Sou Natanael Costa 👋
 
 <div align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/101003048/237150833-6dc9e12b-a3b1-4e25-a2ba-1d0778c72210.gif" />
+  <img style="max-width: 100%" src="https://user-images.githubusercontent.com/101003048/237150833-6dc9e12b-a3b1-4e25-a2ba-1d0778c72210.gif" />
 </div>
 
 👨🏻‍💻 Um Cientista da Computação e Técnico em Informática e em Eletrotécnica que sempre foi afixionado por tecnologia e por saber como as coisas funcionavam
