@@ -50,7 +50,7 @@ SELECT * FROM readme;
 </div>
 
 #### Onde você pode me encontrar
-<a href="https://www.linkedin.com/in/natanael-o-costa/" targer="_blank"><img witdh="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.linkedin.com/in/natanael-o-costa/" target="_blank"><img witdh="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 
 <!--
 **NatanaelOCosta/NatanaelOCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
